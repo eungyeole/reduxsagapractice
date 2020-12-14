@@ -5,7 +5,7 @@ import CounterContainer from './containers/CounterContainer.js';
 function App() {
   return (
     <>
-      <CounterContainer />s
+      <CounterContainer />
     </>
   );
 }
